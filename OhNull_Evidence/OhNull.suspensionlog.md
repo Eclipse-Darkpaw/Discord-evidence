@@ -236,14 +236,14 @@ These are images to Confirm I'm not falsifying the Logs. All these images are in
 
 
 ## Evidence provided
-![](OhNull1.jpg)/
+![](OhNull1.jpg)\
 [Original Source](https://cdn.discordapp.com/attachments/811097722013876255/979522448842166362/0CB4D1C0-0FDD-4B00-8FA6-7042698B8F8A.jpg)
 
-![](OhNull2.jpg)/
+![](OhNull2.jpg)\
 [Original Source](https://cdn.discordapp.com/attachments/811097722013876255/979522449123180614/IMG_4994.png)
 
-![](OhNull3.jpg)/
+![](OhNull3.jpg)\
 [Original Source](https://cdn.discordapp.com/attachments/811097722013876255/979522449370669127/IMG_4993.png)
 
-![](OhNull4.jpg)/
+![](OhNull4.jpg)\
 [Original Source](https://cdn.discordapp.com/attachments/811097722013876255/979522449710411776/IMG_4991.png)
